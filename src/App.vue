@@ -4,7 +4,7 @@
     <div class="bg-dots"></div>
 
     <header class="top-nav">
-      <div class="brand">Not.Space</div>
+      <div class="brand">MANOP.VT.Space</div>
       <nav class="nav-pills">
         <router-link to="/" class="pill">Home</router-link>
       </nav>
